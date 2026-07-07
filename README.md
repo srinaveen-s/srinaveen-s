@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Srinaveen
 
-<!--
-**srinaveen-s/srinaveen-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Electronics and Communication Engineering Student
 
-Here are some ideas to get you started:
+🌐 Aspiring Network Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 BE ECE Student
+- 🌐 Learning Computer Networking
+- 📡 Practicing Cisco Packet Tracer
+- ☕ Learning Java
+- 📚 Preparing for CCNA
+- 🎯 Goal: Become a Network Engineer in 2027
+
+---
+
+## 📖 Currently Learning
+
+- OSI Model
+- TCP/IP
+- IPv4 Addressing
+- Subnetting
+
+---
+
+## 📂 Repositories
+
+- 📘 networking-notes
+- 📡 packet-tracer-labs (Coming Soon)
+- ☕ java-practice (Coming Soon)
+
+---
+
+⭐ Thanks for visiting my profile.
