@@ -10,26 +10,17 @@
 
 - 🎓 BE ECE Student
 - 🌐 Learning Computer Networking
-- 📡 Practicing Cisco Packet Tracer
+- 📡 Practicing Cisco Packet Tracer 
 - ☕ Learning Java
 - 📚 Preparing for CCNA
 - 🎯 Goal: Become a Network Engineer in 2027
 
 ---
 
-## 📖 Currently Learning
-
-- OSI Model
-- TCP/IP
-- IPv4 Addressing
-- Subnetting
-
----
-
 ## 📂 Repositories
 
 - 📘 networking-notes
-- 📡 packet-tracer-labs (Coming Soon)
+- 📡 packet-tracer-labs 
 - ☕ java-practice (Coming Soon)
 
 ---
